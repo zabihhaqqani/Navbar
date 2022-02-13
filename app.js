@@ -19,7 +19,7 @@ const links = document.querySelector(".links")
 //     }
 // })
 
-// add and remove classes - toggle
+// to add and remove classes - toggle
 
 navToggle.addEventListener("click",function(){
     links.classList.toggle("show-links")
